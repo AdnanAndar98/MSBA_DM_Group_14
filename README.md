@@ -1,6 +1,6 @@
 # E-Commerce Database Management System
 
-## Overview
+## Overview 
 
 This project establishes an e-commerce database system. It employs R and RSQLite package to create, populate, validate, and query a SQLite database tailored for e-commerce operations. The system is designed to handle entities such as suppliers, products, inventory, customers, shipments, and payments, providing a comprehensive solution for e-commerce data management.
 
